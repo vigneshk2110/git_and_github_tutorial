@@ -5,5 +5,6 @@ my name is siddhesh
 
 This file was edited at last by Vignesh while learning Git & GitHub: In-Depth Guide by Sahil Mahapatra. I wish to Thank you Sahil for the efforts you have put in this.
 
-This is edited in Local Repo & I am trying to use Fetch Feature
+This is edited in Local Repo & I am trying to use pull directly without using fetch
+
 
